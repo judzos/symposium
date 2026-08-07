@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Symposium</title>
+      <link>https://judzos.github.io/symposium</link>
+      <description>Last 10 notes on Symposium</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>concepts</title>
+    <link>https://judzos.github.io/symposium/sections/machine-learning/concepts/</link>
+    <guid>https://judzos.github.io/symposium/sections/machine-learning/concepts/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 07 Aug 2026 02:36:10 GMT</pubDate>
+  </item><item>
+    <title>sections</title>
+    <link>https://judzos.github.io/symposium/sections/</link>
+    <guid>https://judzos.github.io/symposium/sections/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 07 Aug 2026 02:36:10 GMT</pubDate>
+  </item><item>
+    <title>entities</title>
+    <link>https://judzos.github.io/symposium/sections/machine-learning/entities/</link>
+    <guid>https://judzos.github.io/symposium/sections/machine-learning/entities/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 07 Aug 2026 02:36:10 GMT</pubDate>
+  </item><item>
+    <title>sources</title>
+    <link>https://judzos.github.io/symposium/sections/machine-learning/sources/</link>
+    <guid>https://judzos.github.io/symposium/sections/machine-learning/sources/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 07 Aug 2026 02:36:10 GMT</pubDate>
+  </item><item>
+    <title>concepts</title>
+    <link>https://judzos.github.io/symposium/sections/psychology-neuroscience-self-mastery/concepts/</link>
+    <guid>https://judzos.github.io/symposium/sections/psychology-neuroscience-self-mastery/concepts/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 07 Aug 2026 02:36:10 GMT</pubDate>
+  </item><item>
+    <title>entities</title>
+    <link>https://judzos.github.io/symposium/sections/psychology-neuroscience-self-mastery/entities/</link>
+    <guid>https://judzos.github.io/symposium/sections/psychology-neuroscience-self-mastery/entities/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 07 Aug 2026 02:36:10 GMT</pubDate>
+  </item><item>
+    <title>sources</title>
+    <link>https://judzos.github.io/symposium/sections/psychology-neuroscience-self-mastery/sources/</link>
+    <guid>https://judzos.github.io/symposium/sections/psychology-neuroscience-self-mastery/sources/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 07 Aug 2026 02:36:10 GMT</pubDate>
+  </item><item>
+    <title>synthesis</title>
+    <link>https://judzos.github.io/symposium/sections/psychology-neuroscience-self-mastery/synthesis/</link>
+    <guid>https://judzos.github.io/symposium/sections/psychology-neuroscience-self-mastery/synthesis/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 07 Aug 2026 02:36:10 GMT</pubDate>
+  </item><item>
+    <title>topics</title>
+    <link>https://judzos.github.io/symposium/sections/psychology-neuroscience-self-mastery/topics/</link>
+    <guid>https://judzos.github.io/symposium/sections/psychology-neuroscience-self-mastery/topics/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 07 Aug 2026 02:36:10 GMT</pubDate>
+  </item><item>
+    <title>author</title>
+    <link>https://judzos.github.io/symposium/tags/author</link>
+    <guid>https://judzos.github.io/symposium/tags/author</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 07 Aug 2026 02:36:10 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

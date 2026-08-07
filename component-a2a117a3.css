@@ -1,0 +1,1 @@
+@layer quartz-base{#cursor-glow{pointer-events:none;z-index:9998;opacity:0;background:radial-gradient(circle,#d989300d 0%,#0000 65%);border-radius:50%;width:700px;height:700px;transition:opacity .4s;position:fixed;top:0;left:0;transform:translate(-50%,-50%)}@media (hover:none){#cursor-glow{display:none}}}
