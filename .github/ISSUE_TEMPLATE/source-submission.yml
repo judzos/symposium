@@ -1,0 +1,89 @@
+name: Submit a source
+description: Propose an article, PDF, or other written source for the Symposium wiki
+title: "[Source]: "
+labels:
+  - source-submission
+  - needs-review
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for proposing a source. A maintainer reviews every submission before any automation runs. Approval means the work is in scope and has a named author; it does not guarantee publication.
+
+        Link to copyrighted work instead of uploading a copy. Only attach a file when you wrote it, it is openly licensed, or you otherwise have permission to redistribute it. Attachments to this public issue are public.
+
+  - type: input
+    id: source-title
+    attributes:
+      label: Source title
+      description: Use the work's exact published title.
+      placeholder: Attention Is All You Need
+    validations:
+      required: true
+
+  - type: input
+    id: authors
+    attributes:
+      label: Author(s)
+      description: Name the author, not a publication or channel. Separate co-authors with semicolons.
+      placeholder: Ashish Vaswani; Noam Shazeer
+    validations:
+      required: true
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Wiki section
+      description: Choose the field this work belongs to.
+      options:
+        - machine-learning
+        - psychology-neuroscience-self-mastery
+    validations:
+      required: true
+
+  - type: input
+    id: source-url
+    attributes:
+      label: Canonical source URL
+      description: Link to the author's or publisher's original page. You may leave this empty when the permitted upload below is the only source URL.
+      placeholder: https://example.org/article-or-paper
+
+  - type: textarea
+    id: upload
+    attributes:
+      label: File upload
+      description: Optional. Drag one PDF, Markdown, or text document here. GitHub will replace it with a link after upload.
+      placeholder: Drag and drop one permitted file here, or leave this field empty when the URL above is fetchable.
+
+  - type: dropdown
+    id: depth
+    attributes:
+      label: Retention depth
+      description: How much of the work should the wiki retain? The default is right for most articles.
+      options:
+        - "20 — standard article (recommended)"
+        - "5 — brief reference"
+        - "40 — substantial work"
+        - "70 — foundational work"
+        - "100 — maximum extraction"
+    validations:
+      required: true
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why this belongs
+      description: Tell the reviewer what this source adds and where it connects to the existing wiki.
+      placeholder: This work provides evidence for…
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: assurances
+    attributes:
+      label: Submission checks
+      options:
+        - label: I have named the real human author or authors.
+          required: true
+        - label: I linked to the original work, or I have permission to make the attached file public.
+          required: true
