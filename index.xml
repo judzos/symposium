@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Symposium</title>
+      <link>https://judzos.github.io/symposium</link>
+      <description>Last 10 notes on Symposium</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>concepts</title>
+    <link>https://judzos.github.io/symposium/sections/biology/concepts/</link>
+    <guid>https://judzos.github.io/symposium/sections/biology/concepts/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Nov 2026 19:58:21 GMT</pubDate>
+  </item><item>
+    <title>entities</title>
+    <link>https://judzos.github.io/symposium/sections/biology/entities/</link>
+    <guid>https://judzos.github.io/symposium/sections/biology/entities/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Nov 2026 19:58:21 GMT</pubDate>
+  </item><item>
+    <title>frontier</title>
+    <link>https://judzos.github.io/symposium/sections/biology/frontier/</link>
+    <guid>https://judzos.github.io/symposium/sections/biology/frontier/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Nov 2026 19:58:21 GMT</pubDate>
+  </item><item>
+    <title>topics</title>
+    <link>https://judzos.github.io/symposium/sections/biology/topics/</link>
+    <guid>https://judzos.github.io/symposium/sections/biology/topics/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Nov 2026 19:58:21 GMT</pubDate>
+  </item><item>
+    <title>concepts</title>
+    <link>https://judzos.github.io/symposium/sections/computational-finance/concepts/</link>
+    <guid>https://judzos.github.io/symposium/sections/computational-finance/concepts/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Nov 2026 19:58:21 GMT</pubDate>
+  </item><item>
+    <title>frontier</title>
+    <link>https://judzos.github.io/symposium/sections/computational-finance/frontier/</link>
+    <guid>https://judzos.github.io/symposium/sections/computational-finance/frontier/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Nov 2026 19:58:21 GMT</pubDate>
+  </item><item>
+    <title>topics</title>
+    <link>https://judzos.github.io/symposium/sections/computational-finance/topics/</link>
+    <guid>https://judzos.github.io/symposium/sections/computational-finance/topics/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Nov 2026 19:58:21 GMT</pubDate>
+  </item><item>
+    <title>concepts</title>
+    <link>https://judzos.github.io/symposium/sections/economics/concepts/</link>
+    <guid>https://judzos.github.io/symposium/sections/economics/concepts/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Nov 2026 19:58:21 GMT</pubDate>
+  </item><item>
+    <title>entities</title>
+    <link>https://judzos.github.io/symposium/sections/economics/entities/</link>
+    <guid>https://judzos.github.io/symposium/sections/economics/entities/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Nov 2026 19:58:21 GMT</pubDate>
+  </item><item>
+    <title>topics</title>
+    <link>https://judzos.github.io/symposium/sections/economics/topics/</link>
+    <guid>https://judzos.github.io/symposium/sections/economics/topics/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Nov 2026 19:58:21 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
